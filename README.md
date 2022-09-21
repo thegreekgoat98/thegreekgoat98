@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thegreekgoat98&label=Profile%20views&color=0e75b6&style=flat" alt="thegreekgoat98" /> </p>
 
-- 🌱 I’m currently learning **MERN**
+<!-- - 🌱 I’m currently learning **MERN** -->
 
-- 💬 Ask me about **Competitive Programming, C++**
+- 💬 Ask me about **Problem Solving, DSA**
 
 - 📫 How to reach me **ranjanchinmoy@gmail.com**
 

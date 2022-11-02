@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Problem Solving, DSA**
 
-- 📫 How to reach me **ranjanchinmoy@gmail.com**
+- 📫 Reach me at **ranjanchinmoy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

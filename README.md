@@ -6,7 +6,9 @@
 
 <!-- - 🌱 I’m currently learning **MERN** -->
 
-- 💬 Ask me about **Problem Solving, DSA**
+<!-- - 💬 Ask me about **Problem Solving, DSA** -->
+
+- 💬 High-On-DSA/ Problem Solving
 
 - 📫 Reach me at **ranjanchinmoy@gmail.com**
 
